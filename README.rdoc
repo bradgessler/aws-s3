@@ -329,7 +329,7 @@ and specifying the object's key without a special authenticated url:
 
  http://s3.amazonaws.com/marcel/kiss.jpg
 
-==== Building custum access policies
+==== Building custom access policies
 
 For both buckets and objects, you can use the <tt>acl</tt> method to see its access control policy:
 
